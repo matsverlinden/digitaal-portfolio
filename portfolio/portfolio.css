@@ -1,0 +1,200 @@
+header {
+	background-image:url(background.gif);
+	height: 150px;
+	position: fixed;
+	top: 0px;
+	left: 258px;
+	width: 1004px;
+}
+body {
+	background-image: url(bg4.jpg);
+	background-repeat: no-repeat;
+}
+#ik {
+	position: fixed;
+	left: 630px;
+	bottom: 660px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+	padding-top: 40px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 20px;
+	color: #0e0e6b;
+}
+ul {
+	display: inline;
+	position: fixed;
+	top: 83px;
+	left: 218px;
+
+}
+li {
+	list-style-type: none;
+	font-size: 120%;
+	float: left;
+	padding-right: 55px;
+	padding-left: 55px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+}
+li a {
+	text-decoration: none;
+	color: white;
+	
+}
+li:hover {
+	background-color: black;
+}
+main {
+	margin-top: 150px;
+	margin-left: 250px;
+	margin-right: 250px;
+	background-color: white;
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+#p {
+	padding-left: 15px;
+	margin-right: 20px;
+}
+.h1 {
+	padding-left: 15px;
+}
+#ict {
+	float: right;
+	margin-right: 20px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#school {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 2px;
+}
+#opleiding {
+	background-image:url(background.gif);
+	left: 258px;
+	width: 974px;
+	position: absolute;
+	padding: 15px;
+	top: 896px;
+
+}
+i {
+	margin-left: 370px;
+}
+#overmij {
+	background-image:url(background.gif);
+	left: 258px;
+	width: 974px;
+	position: absolute;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 32px;
+	bottom: 50px;
+
+}
+#alblas {
+	float: right;
+	width: 300px;
+	height: 200px;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 120px;
+}
+#korfbal {
+	float: left;
+	width: 240px;
+	height: 170px;
+	padding-right: 10px;
+}
+#p {
+	padding-bottom: 90px;
+}
+.head {
+	padding-right: 17px;
+}
+#wiebenik {
+	background-image:url(background.gif);
+	left: 258px;
+	width: 974px;
+	position: absolute;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 32px;
+	bottom: 50px;
+}
+#coop {
+	float: left;
+	padding-right: 20px;
+}
+#kop {
+	width: 460px;
+}
+#weg {
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+#ict2 {
+	position: relative;
+	bottom: 35px;
+	float: right;
+	padding-left: 20px;
+	padding-right: 100px;
+}
+#beneden {
+	padding-bottom: 75px;
+	width: 450px;
+}
+#h3 {
+	margin-left: 20px;
+}
+#home1 {
+	text-align: center;
+}
+#ik1 {
+	position: relative;
+	float: right;
+	padding: 15px;
+	bottom: 30px;
+}
+.main2 {
+	padding-bottom: 120px;
+}
+.main3 {
+	padding-bottom: 70px;
+}
+#persoon {
+	position: relative;
+	float: right;
+	
+	right: 350px;
+}
+#tekst1 {
+	width: 230px;
+	padding-top: 0px;
+	padding-left: 55px;
+	padding-bottom: 0px;
+}
+#tekst2 {
+	padding-top: 40px;
+	position: absolute;
+	left: 995px;
+	width: 230px;
+	top: 225px;
+
+}
+#kop1 {
+	padding-left: 40px;
+}
+#kop2 {
+	position: absolute;
+	top: 225px;
+	left: 1000px;
+}
